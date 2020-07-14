@@ -4,7 +4,7 @@ This project is a part of Udacity's Deep Learning Nanodegree.
 Defined and trained a DCGAN on a dataset of celebrity faces. 
 
 ## Goal
-get a generator network to generate *new* images of faces that look as realistic as possible!
+Create a generator network to generate *new* images of faces that look as realistic as possible!
 Visualized results of new generated faces is in the repo notebook.
 
 ## Get the Data
