@@ -1,4 +1,4 @@
-# Face-Generator-using-GANS-
+# Face-Generation-using-DCGANS-
 
 This project is a part of Udacity's Deep Learning Nanodegree.
 Defined and trained a DCGAN on a dataset of faces. 
